@@ -29,13 +29,11 @@ modules:
       - bootc
       - borgbackup
       - fastfetch
-      - firacode-nerd-fonts
       - git-credential-libsecret
       - hplip
       - ptyxis
       - wireguard-tools
 
-      - podman-bootc
       - podman-compose
       - podman-machine
       - podman-tui
