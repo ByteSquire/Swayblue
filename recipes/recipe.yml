@@ -56,7 +56,7 @@ modules:
         - org.gnome.Loupe
         - io.podman_desktop.PodmanDesktop
         - io.github.getnf.embellish
-        - me.iepure-devtoolbox
+        - me.iepure.devtoolbox
         - org.mozilla.Thunderbird
         - com.github.tchx84.Flatseal
         - io.github.flattool.Warehouse
