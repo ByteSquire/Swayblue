@@ -44,8 +44,9 @@ modules:
       - firefox
       - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
 
-      #- rofi
+      #- rofi is replaced by wofi
       - rofi-wayland
+      - rofi-themes
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
