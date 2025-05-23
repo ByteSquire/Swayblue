@@ -24,7 +24,6 @@ modules:
       - micro
       - starship
 
-      - wofi
       - bash-color-prompt
       - bootc
       - borgbackup
@@ -43,10 +42,6 @@ modules:
       # "firefox" is the main package, "firefox-langpacks" is a dependency
       - firefox
       - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
-
-      #- rofi is replaced by wofi
-      - rofi-wayland
-      - rofi-themes
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
