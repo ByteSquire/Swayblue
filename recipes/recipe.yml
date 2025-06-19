@@ -22,28 +22,28 @@ modules:
       copr:
         - atim/starship
     install:
-      - install-weak-deps: false
-        packages:
-          - micro
-          - starship
-    
-          - bash-color-prompt
-          - bootc
-          - borgbackup
-          - fastfetch
-          - git-credential-libsecret
-          - hplip
-          - ptyxis
-          - wireguard-tools
-    
-          - gutenprint
-          - printer-driver-brlaser
-          - foomatic
-    
-          - podman-compose
-          - podman-machine
-          - podman-tui
-          - podmansh
+      install-weak-deps: false
+      packages:
+        - micro
+        - starship
+  
+        - bash-color-prompt
+        - bootc
+        - borgbackup
+        - fastfetch
+        - git-credential-libsecret
+        - hplip
+        - ptyxis
+        - wireguard-tools
+  
+        - gutenprint
+        - printer-driver-brlaser
+        - foomatic
+  
+        - podman-compose
+        - podman-machine
+        - podman-tui
+        - podmansh
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
