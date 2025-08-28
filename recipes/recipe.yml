@@ -21,6 +21,7 @@ modules:
     repos:
       copr:
         - atim/starship
+        - ublue-os/packages
     install:
       install-weak-deps: false
       packages:
