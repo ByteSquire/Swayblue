@@ -32,10 +32,11 @@ modules:
         - borgbackup
         - fastfetch
         - git-credential-libsecret
-        - hplip
         - ptyxis
         - wireguard-tools
+        - ublue-brew
   
+        - hplip
         - gutenprint
         - printer-driver-brlaser
         - foomatic
