@@ -28,6 +28,7 @@ modules:
         - micro
         - starship
         - wdisplays
+        - wl-mirror
   
         - bash-color-prompt
         - bootc
