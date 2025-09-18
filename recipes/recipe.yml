@@ -27,6 +27,7 @@ modules:
       packages:
         - micro
         - starship
+        - wdisplays
   
         - bash-color-prompt
         - bootc
