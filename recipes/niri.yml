@@ -68,7 +68,7 @@ modules:
           - me.iepure.devtoolbox
           - org.mozilla.Thunderbird
           - com.github.tchx84.Flatseal
-          - io.github.flattool.Warehouse
+          - io.github.kolunmi.Bazaar
           - io.missioncenter.MissionCenter
         remove:
           - org.gnome.eog
