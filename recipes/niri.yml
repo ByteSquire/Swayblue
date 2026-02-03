@@ -70,6 +70,8 @@ modules:
           - com.github.tchx84.Flatseal
           - io.github.kolunmi.Bazaar
           - io.missioncenter.MissionCenter
+          - org.gnome.World.PikaBackup
+          - org.videolan.VLC
         remove:
           - org.gnome.eog
 
