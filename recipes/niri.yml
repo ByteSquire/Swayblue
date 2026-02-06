@@ -35,6 +35,7 @@ modules:
         - borgbackup
         - fastfetch
         - git-credential-libsecret
+        - ksshaskpass
         - ptyxis
         - wireguard-tools
         - ublue-brew
