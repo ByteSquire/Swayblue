@@ -31,7 +31,6 @@ modules:
         - wl-mirror
   
         - bash-color-prompt
-        - bootc
         - borgbackup
         - fastfetch
         - git-credential-libsecret
@@ -63,8 +62,10 @@ modules:
         # If no repo information is specified, Flathub will be used by default
         install:
           - org.mozilla.firefox
+          - app.zen_browser.zen
           - org.gnome.Loupe
           - io.podman_desktop.PodmanDesktop
+          - com.ranfdev.DistroShelf
           - io.github.getnf.embellish
           - me.iepure.devtoolbox
           - org.mozilla.Thunderbird
